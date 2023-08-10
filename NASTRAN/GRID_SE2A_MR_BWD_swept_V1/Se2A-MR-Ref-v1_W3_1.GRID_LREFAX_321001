@@ -1,0 +1,48 @@
+$
+$
+$======================================================================
+$   Converted to 7 digit value format
+$======================================================================
+$
+$
+$***********************************************************************
+$ Created by ModGen (Version 2.2007.02  (latest version))
+$ Operating System: Linux    
+$ Date & Time: 2020-08-26 12:02:57
+$***********************************************************************
+$
+$ TITLE= Se2A-MR-Ref-v1_W3_1                                                                                                 
+$
+$
+$-----------------------------------------------------------------------
+$
+$ GRIDs of load reference axis defined by input card LREFAX 321001  
+$
+GRID    32190001         34.9774  -0.049     1.2
+GRID    32190002         35.0863-.045280 1.79745
+GRID    32190003         35.1952-.041560 2.39491
+GRID    32190004          35.304-.037830 2.99237
+GRID    32190005         35.4129-.034110 3.58982
+GRID    32190006         35.5217-.030390 4.18729
+GRID    32190007         35.6306-.026660 4.78474
+GRID    32190008         35.7395-.022940  5.3822
+GRID    32190009         35.8483-.019210 5.97966
+GRID    32190010         35.9495-.015750 6.53486
+$
+$
+$***********************************************************************
+$ ModGen is a program to set up Nastran structural, aerodynamic, and
+$ optimization models for aircraft structures like wing and fuselage
+$ including optional pre-sizing.
+$
+$ ModGen is developed by:
+$
+$       DLR German Aerospace Center
+$       Institute of Aeroelasticty
+$       37073 Goettingen
+$       Internet www.dlr.de/ae
+$       Contact: thomas.klimmek@dlr.de
+$
+$***********************************************************************
+$
+$
