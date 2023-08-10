@@ -5,7 +5,7 @@
 %               eta_segments)
 % 'specified': the LAD control inputs are specified via eta_segments
 param.lad_mode = 'specified'; % 'everywhere'
-
+param.flap_mode = 'specified'; % 'everywhere'
 
 % dimensionless span flap boarders (from root to tip; symmetric on left side)
 param.eta_segments_device = [ 0 0.2, 0.9 1 ];
