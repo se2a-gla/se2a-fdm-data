@@ -5,8 +5,15 @@
 
 infEmb = realmax('double');
 
-% time constant LADs (from JRG-B2 for tab/spoiler)
-param.LAD.T = 0.068;
+% LAD servo dynamics
+param.LAD.omega = 100;
+% damping ratio rudder
+param.LAD.D = 1;
+% maximum deflections and deflection rates rudder
+param.LAD.defl_max = deg2rad(30);
+param.LAD.defl_min = deg2rad(-30);
+param.LAD.defl_rate_max = deg2rad(100);
+param.LAD.defl_rate_min = -deg2rad(100);
 
 % natural frequency rudder
 param.rudder.omega = 30;
